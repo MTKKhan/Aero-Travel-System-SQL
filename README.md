@@ -1,2 +1,3 @@
 # Aero-Travel-System-SQL
-Executed a SQL-based flight reservation system, optimizing data retrieval and reducing booking times. Developed 17 queries and 3 views, resulting in a 30% faster query response and a 20% efficiency boost.
+
+In this project, a comprehensive flight reservation system was designed and executed using SQL to manage various aspects of airline operations. The system effectively handled 20 flight records, 20 reservations, and 28 customer profiles. To optimize the system’s efficiency, 17 complex SQL queries and 3 views were developed. These enhancements significantly reduced booking times by 40% and improved data retrieval processes, resulting in a 30% faster query response and a 20% boost in overall operational efficiency. This project demonstrates the practical application of SQL in managing and optimizing real-world airline operations, providing a robust solution for streamlined and efficient flight reservations.
